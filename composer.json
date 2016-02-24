@@ -1,7 +1,8 @@
 {
-    "name": "lexus/convert-number-to-words",
+    "name": "wizardoncouch/convert-number-to-words",
     "description": "Convert number to words",
     "license": "N/A",
+    "version": "0.1",
     "authors": [
         {
             "name": "Alex Culango",
